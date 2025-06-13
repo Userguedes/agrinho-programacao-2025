@@ -123,7 +123,7 @@ figcaption {
 
 /* Seção Conclusão */
 .conclusao {
-    background-color: #6f6b00;
+    background-color: #7eff3e;
     color: white;
 }
 
@@ -152,7 +152,7 @@ footer .social a {
 }
 
 footer .social a:hover {
-    color: #ffd700;
+    color: #7eff3e;
 }
 
 /* Responsividade */
